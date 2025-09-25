@@ -3,7 +3,7 @@
         "path": "bambino-test",
         "name": "bambino-test",
         "pages": [
-            "transcript"
+            "bambino-01"
         ],
         "picturesAvailable": true
     },
