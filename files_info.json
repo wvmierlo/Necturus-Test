@@ -16,19 +16,6 @@
         "picturesAvailable": true
     },
     {
-        "path": "sample_2",
-        "name": "Medieval Sample",
-        "pages": [
-            "0007_KBR_1805-08_1r",
-            "0008_KBR_1805-08_1v",
-            "0009_KBR_1805-08_2r",
-            "0010_KBR_1805-08_2v",
-            "0011_KBR_1805-08_3r",
-            "0012_KBR_1805-08_3v"
-        ],
-        "picturesAvailable": true
-    },
-    {
         "path": "sample_3",
         "name": "No Image Sample",
         "pages": [
