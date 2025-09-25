@@ -1,5 +1,13 @@
 [
     {
+        "path": "bambino-test",
+        "name": "bambino-test",
+        "pages": [
+            "transcript"
+        ],
+        "picturesAvailable": true
+    },
+    {
         "path": "sample_1",
         "name": "Woolf Sample",
         "pages": [
