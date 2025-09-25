@@ -14,13 +14,5 @@
             "m1-8-1-9"
         ],
         "picturesAvailable": true
-    },
-    {
-        "path": "sample_3",
-        "name": "No Image Sample",
-        "pages": [
-            "xml_A"
-        ],
-        "picturesAvailable": false
     }
 ]
